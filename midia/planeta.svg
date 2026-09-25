@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <title>Planeta</title>
+  <g fill="#FFD23F" stroke="#23262F" stroke-width="2" stroke-linejoin="round">
+    <path d="M34 34 L37 43 L46 46 L37 49 L34 58 L31 49 L22 46 L31 43 Z"/>
+    <path d="M170 150 L172 157 L179 159 L172 161 L170 168 L168 161 L161 159 L168 157 Z"/>
+    <path d="M160 34 L162 40 L168 42 L162 44 L160 50 L158 44 L152 42 L158 40 Z"/>
+  </g>
+  <path d="M28 118 Q24 96 100 84 Q176 72 172 94" fill="none" stroke="#23262F" stroke-width="16" stroke-linecap="round"/>
+  <path d="M28 118 Q24 96 100 84 Q176 72 172 94" fill="none" stroke="#FFD23F" stroke-width="9" stroke-linecap="round"/>
+  <circle cx="100" cy="100" r="54" fill="#8E7DFF" stroke="#23262F" stroke-width="5"/>
+  <path d="M52 86 Q100 74 148 84 M48 106 Q100 96 152 104" fill="none" stroke="#6F5CE6" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="124" cy="124" r="8" fill="#6F5CE6"/>
+  <path d="M68 70 Q80 56 98 54" fill="none" stroke="#fff" stroke-width="6" stroke-linecap="round" opacity=".6"/>
+  <path d="M172 94 Q176 116 100 128 Q30 138 28 118" fill="none" stroke="#23262F" stroke-width="16" stroke-linecap="round"/>
+  <path d="M172 94 Q176 116 100 128 Q30 138 28 118" fill="none" stroke="#FFD23F" stroke-width="9" stroke-linecap="round"/>
+</svg>

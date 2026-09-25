@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <title>Mapa do tesouro</title>
+  <path d="M20 30 L70 18 L130 32 L180 20 L180 170 L130 182 L70 168 L20 180 Z" fill="#F3DDB3" stroke="#23262F" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M70 18 L70 168 M130 32 L130 182" stroke="#D9BC86" stroke-width="3"/>
+  <path d="M40 60 Q52 44 70 58 Q86 70 80 86 Q66 98 50 90 Q34 80 40 60 Z" fill="#7FD6A4" stroke="#2E9E62" stroke-width="3"/>
+  <path d="M112 120 Q126 104 146 116 Q160 128 150 146 Q134 156 118 146 Q104 136 112 120 Z" fill="#7FD6A4" stroke="#2E9E62" stroke-width="3"/>
+  <path d="M58 82 Q70 116 100 110 Q126 104 132 128" fill="none" stroke="#EF476F" stroke-width="4" stroke-linecap="round" stroke-dasharray="7 8"/>
+  <path d="M126 122 L142 138 M142 122 L126 138" stroke="#23262F" stroke-width="6" stroke-linecap="round"/>
+  <g transform="translate(152 60)">
+    <circle r="16" fill="#fff" stroke="#23262F" stroke-width="3"/>
+    <path d="M0 -13 L5 0 L0 13 L-5 0 Z" fill="#EF476F" stroke="#23262F" stroke-width="2" stroke-linejoin="round"/>
+    <path d="M0 0 L5 0 L0 13 Z" fill="#fff"/>
+  </g>
+  <path d="M34 140 L44 124 L54 140 Z M48 140 L58 120 L68 140 Z" fill="#B5835A" stroke="#23262F" stroke-width="3" stroke-linejoin="round"/>
+</svg>

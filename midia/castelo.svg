@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <title>Castelo</title>
+  <rect x="0" y="172" width="200" height="28" fill="#7FD6A4"/>
+  <g stroke="#23262F" stroke-width="4" stroke-linejoin="round">
+    <path d="M36 50 L36 26 L60 36 L36 44" fill="#EF476F"/>
+    <path d="M164 50 L164 26 L188 36 L164 44" fill="#FFD23F"/>
+    <path d="M52 176 L52 96 L148 96 L148 176 Z" fill="#C9CFD8"/>
+    <path d="M52 96 L52 84 L64 84 L64 92 L76 92 L76 84 L88 84 L88 92 L100 92 L100 84 L112 84 L112 92 L124 92 L124 84 L136 84 L136 92 L148 92 L148 96" fill="#C9CFD8"/>
+    <path d="M18 176 L18 64 L54 64 L54 176 Z" fill="#AEB6C2"/>
+    <path d="M14 64 L14 50 L24 50 L24 58 L32 58 L32 50 L40 50 L40 58 L48 58 L48 50 L58 50 L58 64 Z" fill="#AEB6C2"/>
+    <path d="M146 176 L146 64 L182 64 L182 176 Z" fill="#AEB6C2"/>
+    <path d="M142 64 L142 50 L152 50 L152 58 L160 58 L160 50 L168 50 L168 58 L176 58 L176 50 L186 50 L186 64 Z" fill="#AEB6C2"/>
+    <path d="M78 176 L78 138 Q100 112 122 138 L122 176 Z" fill="#8A5A3B"/>
+    <rect x="30" y="84" width="12" height="20" rx="6" fill="#3B4A6B"/>
+    <rect x="158" y="84" width="12" height="20" rx="6" fill="#3B4A6B"/>
+    <rect x="94" y="102" width="12" height="18" rx="6" fill="#3B4A6B"/>
+  </g>
+  <path d="M100 124 L100 176" stroke="#5E3B22" stroke-width="3"/>
+</svg>

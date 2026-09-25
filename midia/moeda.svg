@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <title>Moeda</title>
+  <circle cx="100" cy="100" r="80" fill="#F4B400" stroke="#23262F" stroke-width="5"/>
+  <circle cx="100" cy="100" r="64" fill="#FFD23F" stroke="#C98F00" stroke-width="5"/>
+  <path d="M100 52 L112 86 L148 86 L119 107 L130 142 L100 121 L70 142 L81 107 L52 86 L88 86 Z" fill="#F4B400" stroke="#C98F00" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M52 70 Q64 46 92 40" fill="none" stroke="#fff" stroke-width="7" stroke-linecap="round" opacity=".8"/>
+</svg>

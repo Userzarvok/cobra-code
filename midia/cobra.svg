@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <title>Cobra</title>
+  <path d="M28 168 Q28 140 62 140 L132 140 Q166 140 166 112 Q166 86 132 86 L78 86 Q48 86 48 64 Q48 44 76 42" fill="none" stroke="#23262F" stroke-width="34" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M28 168 Q28 140 62 140 L132 140 Q166 140 166 112 Q166 86 132 86 L78 86 Q48 86 48 64 Q48 44 76 42" fill="none" stroke="#5CC98A" stroke-width="26" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M40 150 Q44 146 62 146 L132 146 Q158 146 160 114 Q160 94 132 92 L78 92 Q44 90 44 64" fill="none" stroke="#A8E6C1" stroke-width="7" stroke-linecap="round" stroke-dasharray="2 12"/>
+  <path d="M98 36 L118 30 M118 30 L126 24 M118 30 L127 34" fill="none" stroke="#EF476F" stroke-width="4" stroke-linecap="round"/>
+  <ellipse cx="86" cy="40" rx="24" ry="19" fill="#5CC98A" stroke="#23262F" stroke-width="4"/>
+  <circle cx="84" cy="33" r="6.5" fill="#fff" stroke="#23262F" stroke-width="3"/>
+  <circle cx="98" cy="35" r="6.5" fill="#fff" stroke="#23262F" stroke-width="3"/>
+  <circle cx="86" cy="33" r="2.8" fill="#23262F"/>
+  <circle cx="100" cy="35" r="2.8" fill="#23262F"/>
+  <path d="M72 46 Q78 50 84 47" fill="none" stroke="#23262F" stroke-width="3" stroke-linecap="round"/>
+</svg>

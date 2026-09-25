@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <title>Livro aberto</title>
+  <g stroke="#23262F" stroke-width="4" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M14 58 L14 162 Q58 150 100 168 Q142 150 186 162 L186 58 Z" fill="#3A86FF"/>
+    <path d="M24 44 Q64 36 100 56 L100 158 Q64 138 24 146 Z" fill="#FFFDF6"/>
+    <path d="M176 44 Q136 36 100 56 L100 158 Q136 138 176 146 Z" fill="#FFFDF6"/>
+    <path d="M136 42 L136 88 L146 80 L156 88 L156 40" fill="#EF476F"/>
+  </g>
+  <g stroke="#A9B1BD" stroke-width="4" stroke-linecap="round" fill="none">
+    <path d="M38 66 Q62 62 86 72 M38 82 Q62 78 86 88 M38 98 Q62 94 86 104 M38 114 Q58 110 74 116"/>
+    <path d="M114 72 Q124 68 128 68 M114 88 Q138 78 162 82 M114 104 Q138 94 162 98 M114 120 Q134 112 150 114"/>
+  </g>
+</svg>

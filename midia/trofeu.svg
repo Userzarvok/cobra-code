@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <title>Troféu</title>
+  <g stroke="#23262F" stroke-width="5" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M58 44 Q24 44 30 76 Q36 102 70 104" fill="none"/>
+    <path d="M142 44 Q176 44 170 76 Q164 102 130 104" fill="none"/>
+    <path d="M58 30 L142 30 L138 84 Q132 120 100 124 Q68 120 62 84 Z" fill="#FFD23F"/>
+    <rect x="88" y="124" width="24" height="26" fill="#F4B400"/>
+    <rect x="64" y="150" width="72" height="16" rx="4" fill="#F4B400"/>
+    <rect x="52" y="166" width="96" height="20" rx="5" fill="#8A5A3B"/>
+  </g>
+  <path d="M100 48 L107 66 L126 66 L111 78 L117 96 L100 85 L83 96 L89 78 L74 66 L93 66 Z" fill="#fff" opacity=".9"/>
+  <path d="M72 40 L72 78" stroke="#fff" stroke-width="6" stroke-linecap="round" opacity=".6"/>
+  <rect x="80" y="171" width="40" height="10" rx="3" fill="#FFD23F"/>
+</svg>
