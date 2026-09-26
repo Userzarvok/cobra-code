@@ -1,0 +1,31 @@
+Copyright (c) 2026 Pedro (https://github.com/Userzarvok)
+Todos os direitos reservados.
+
+Este repositório é público para que qualquer pessoa possa ver o projeto e estudar
+o código. Isso NÃO dá permissão para usar o código ou o conteúdo em outro lugar.
+
+É permitido:
+  - ver o código e o site publicado;
+  - usar o site publicado normalmente;
+  - citar pequenos trechos para comentar ou estudar, com link para este repositório.
+
+Sem autorização por escrito do autor, é proibido:
+  - copiar este código ou este conteúdo, no todo ou em parte, para outros projetos,
+    sites ou repositórios;
+  - modificar, redistribuir, sublicenciar, vender ou publicar este código ou versões
+    dele;
+  - apresentar este trabalho, ou algo derivado dele, como se fosse seu.
+
+Os Termos de Serviço do GitHub permitem que outras pessoas vejam este repositório e
+criem forks dele dentro do GitHub. Isso não dá a ninguém o direito de usar o código
+fora do GitHub nem de republicá-lo.
+
+Para pedir autorização, abra uma issue neste repositório.
+
+Componentes de terceiros: os programas de código aberto incluídos neste repositório
+(Pyodide, CPython, QuickJS, quickjs-emscripten, Clang/LLD e o sysroot do cpp-wasm,
+CodeMirror, Lezer, Acorn e as fontes JetBrains Mono e VT323) continuam sob as
+próprias licenças, listadas em AVISOS-DE-TERCEIROS.md. Esta licença não se aplica a
+eles.
+
+O SOFTWARE É FORNECIDO "COMO ESTÁ", SEM GARANTIA DE NENHUM TIPO.
